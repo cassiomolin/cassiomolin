@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**cassiomolin/cassiomolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cassio Mazzochi Molin.  
+I’ve been developing software for over 12 years now, mainly with Java.
 
-Here are some ideas to get you started:
+Want to know more? See below:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :briefcase: [LinkedIn](linkedin) 
+- :medal_sports: [Stack Overflow](stackoverflow)
+- :page_facing_up: [CV](cv)
+- :thought_balloon: [Not-so-frequently-updated coding blog](blog)
+
+
+
+[blog]: https://cassiomolin.com
+[cv]: https://cassiomolin.com/cv
+[linkedin]: https://www.linkedin.com/in/cassiomolin
+[stack-overflow]: https://www.stackoverflow.com/u/1426227
