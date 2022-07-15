@@ -4,7 +4,7 @@ I’ve been developing software for over 12 years now, mainly with Java.
 Want to know more? See below:
 
 - :briefcase: Check out my [LinkedIn][linkedin] profile.
-- :page_facing_up: You'll also find details about my professional experience in my [CV].
+- :rocket: You'll also find details about my professional experience in my [CV].
 - :grey_question: I answered 1000+ programming-related questions in [Stack Overflow][stack-overflow].
 - :thought_balloon: You may find something interesting in my not-so-frequently-updated [coding blog][blog].
 - :mailbox: Would you like to get in touch? [Drop me a message][contact].  
