@@ -1,4 +1,4 @@
-### Hi, I'm Cassio :wave:
+### Hi, I'm Cassio Mazzochi Molin :wave:
   
 I’ve been developing software for over 12 years now, mainly with Java.  
 Want to know more? See below:
