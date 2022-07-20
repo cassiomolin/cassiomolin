@@ -5,7 +5,7 @@ Want to know more? See below:
 
 - :briefcase: Check out my [LinkedIn][linkedin] profile.
 - :rocket: You'll also find details about my professional experience in my [CV].
-- :trophy: I answered 1000+ programming-related questions in [Stack Overflow][stack-overflow].
+- :trophy: I answered 1k+ programming-related questions in [Stack Overflow][stack-overflow].
 - :thought_balloon: You may find something interesting in my not-so-frequently-updated [coding blog][blog].
 - :mailbox: Would you like to get in touch? [Drop me a message][contact].  
 
