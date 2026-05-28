@@ -6,7 +6,7 @@ Want to know more? See below:
 - Check out my [LinkedIn][linkedin] profile.
 - You'll also find details about my professional experience in my [CV].
 - I answered 1k+ programming-related questions in [Stack Overflow][stack-overflow].
-- You may find something interesting personal [website][website].
+- You may find something interesting in my personal [website][website].
 - Would you like to get in touch? [Drop me a message][contact].  
 
 
